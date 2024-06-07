@@ -1,0 +1,4 @@
+#Fri Jun 07 16:34:37 CEST 2024
+base.0=/home/johanmaif/tests/app_project/pokedex/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

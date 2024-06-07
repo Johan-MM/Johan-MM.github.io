@@ -1,0 +1,1 @@
+ /home/johanmaif/tests/app_project/pokedex/.dart_tool/flutter_build/f3bd694ac1fa4e6a0a184d147bc1c5e5/native_assets.yaml: 
